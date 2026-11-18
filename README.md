@@ -1,4 +1,3 @@
-
 # C++ Fundamentals Practical
 
 ## Aim
